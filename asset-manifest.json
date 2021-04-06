@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jobans/movie_app_2021/static/css/main.fd45d11d.chunk.css",
+    "main.js": "/jobans/movie_app_2021/static/js/main.710ea7c1.chunk.js",
+    "main.js.map": "/jobans/movie_app_2021/static/js/main.710ea7c1.chunk.js.map",
+    "runtime-main.js": "/jobans/movie_app_2021/static/js/runtime-main.28bd9e3a.js",
+    "runtime-main.js.map": "/jobans/movie_app_2021/static/js/runtime-main.28bd9e3a.js.map",
+    "static/js/2.54138d12.chunk.js": "/jobans/movie_app_2021/static/js/2.54138d12.chunk.js",
+    "static/js/2.54138d12.chunk.js.map": "/jobans/movie_app_2021/static/js/2.54138d12.chunk.js.map",
+    "index.html": "/jobans/movie_app_2021/index.html",
+    "static/css/main.fd45d11d.chunk.css.map": "/jobans/movie_app_2021/static/css/main.fd45d11d.chunk.css.map",
+    "static/js/2.54138d12.chunk.js.LICENSE.txt": "/jobans/movie_app_2021/static/js/2.54138d12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28bd9e3a.js",
+    "static/js/2.54138d12.chunk.js",
+    "static/css/main.fd45d11d.chunk.css",
+    "static/js/main.710ea7c1.chunk.js"
+  ]
+}
